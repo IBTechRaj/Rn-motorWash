@@ -6,7 +6,7 @@ import {
   Button,
 } from 'react-native';
 
-const NotificationScreen = ({ navigation }) => {
+const ExploreScreen = ({ navigation }) => {
 
 
   return (
@@ -35,7 +35,7 @@ const NotificationScreen = ({ navigation }) => {
   );
 };
 
-export default NotificationScreen
+export default ExploreScreen
 
 const styles = StyleSheet.create({
   container: {
